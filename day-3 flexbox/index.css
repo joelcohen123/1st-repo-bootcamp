@@ -1,0 +1,17 @@
+.flex-container {
+ display: flex;
+flex-wrap: nowrap;
+background-color: burlywood;
+}
+
+.flex-container >div {
+background-color: red;
+width: 300px;
+margin: 13px;
+text-align: left;
+line height: 80px;
+font-size: 40px;
+}
+
+
+
